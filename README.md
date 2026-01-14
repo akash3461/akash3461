@@ -10,30 +10,29 @@
   📊 Passionate about <b>Data Analytics, Data Science & Intelligent Systems</b>
 </p>
 
----
-<p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="280"/>
-</p>
-
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/student-center.png"/>
-  <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/96/python--v1.png"/>
-  <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
-  <img src="https://img.icons8.com/color/96/controller.png"/>
-</p>
+<table>
+<tr>
+<td width="65%">
 
 - 🎓 BE Computer Engineering Student  
 - ☕ Strong foundation in **Java & Object-Oriented Programming**  
 - 🐍 Working with **Python for Data Analytics & Data Science**  
-- 📊 Hands-on experience with **NumPy, Pandas, Matplotlib, Seaborn**  
+- 📊 Hands-on with **NumPy, Pandas, Matplotlib, Seaborn**  
 - 🤖 Learning **Machine Learning & AI/ML concepts**  
 - 🎮 Interested in building **Games & Interactive Applications**  
 - 🎯 Career goal: Become a **Skilled Software & AI Engineer**
 
----
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 🛠️ Tech Stack
 
@@ -61,13 +60,13 @@
 ---
 
 ## 📊 GitHub Activity & Stats
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akash3461)
+![GitHub Streak](https://streak-stats.demolab.com?user=akash3461&theme=tokyonight)
+
 
 ---
 
