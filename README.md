@@ -68,10 +68,8 @@
 
 ### <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28" height="28" alt="Stats Gif"> My GitHub Stats
 
-<!-- Profile Summary -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash3461&theme=github" width="100%" alt="Profile Summary"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash3461&theme=tokyonight" width="100%"/>
+
 
 <!-- Top Languages + GitHub Stats -->
 <p align="center">
