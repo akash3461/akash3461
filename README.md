@@ -10,15 +10,16 @@
   📊 Passionate about <b>Data Analytics, Data Science & Intelligent Systems</b>
 </p>
 
+
 ## About Me :
 <!-- Optional alternative (disabled) -->
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 
-<img align="left" height="150" 
-src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" 
-alt="developer-avatar" style="margin-right: 2rem;" />
+<img align="left" height="150"
+src="https://octodex.github.com/images/gracehoppertocat.png"
+alt="Grace Hopper Octocat" style="margin-right: 2rem;" />
 
-<img align="right" alt="coding" width="300" 
+<img align="right" alt="coding" width="300"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 • 🎓 BE Computer Engineering Student<br/>
