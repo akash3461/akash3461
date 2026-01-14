@@ -80,10 +80,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash3461&theme=tokyonight" width="48%"/>
 </p>
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/akash3461/akash3461/blob/output/github-contribution-grid-snake.svg)
+## 🌌 GitHub Contribution Graph (3D)
 
----
+![3D Contribution Graph](https://github-profile-3d-contribution.vercel.app/api?username=akash3461&theme=tokyonight)
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/akashc42)
