@@ -10,28 +10,27 @@
   📊 Passionate about <b>Data Analytics, Data Science & Intelligent Systems</b>
 </p>
 
-## 👨‍💻 About Me
+## About Me :
+<!-- Optional alternative animation (disabled) -->
+<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 
-<table>
-<tr>
-<td width="65%">
+<img align="left" height="150" 
+src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" 
+alt="octocat" style="margin-right: 2rem;" />
 
-- 🎓 BE Computer Engineering Student  
-- ☕ Strong foundation in **Java & Object-Oriented Programming**  
-- 🐍 Working with **Python for Data Analytics & Data Science**  
-- 📊 Hands-on with **NumPy, Pandas, Matplotlib, Seaborn**  
-- 🤖 Learning **Machine Learning & AI/ML concepts**  
-- 🎮 Interested in building **Games & Interactive Applications**  
-- 🎯 Career goal: Become a **Skilled Software & AI Engineer**
+<img align="right" alt="coding" width="300" 
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-</td>
-<td width="35%" align="center">
+• 🎓 BE Computer Engineering Student<br/>
+• ☕ Java Developer with strong OOP fundamentals<br/>
+• 🐍 Python Developer focused on Data Analytics & Data Science<br/>
+• 🤖 Learning AI / Machine Learning concepts<br/>
+• 🎮 Interested in Games & Interactive Applications<br/>
+• 💬 Ask me about <b>Java, Python, Data Analytics, AI/ML</b><br/>
+• 📫 Reach me at <b>akashchavan4278@gmail.com</b><br/>
+• 💼 <a href="https://github.com/akash3461" target="_blank"><b>Visit My GitHub Profile</b></a><br/>
 
-<img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="250"/>
-
-</td>
-</tr>
-</table>
+<br clear="both"/>
 
 
 ## 🛠️ Tech Stack
