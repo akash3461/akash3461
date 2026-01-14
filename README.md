@@ -3,16 +3,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Java+Developer;Python+Data+Analyst;Data+Science+%26+AI+ML+Enthusiast;Open+Source+Learner&center=true&width=750" />
 </p>
----
-![Profile Views](https://komarev.com/ghpvc/?username=akash3461)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akash3461&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
 <p align="center">
   🚀 <b>BE Computer Engineering Student</b><br>
   💻 Java Developer | 🐍 Python Data Analyst | 🤖 AI & ML Enthusiast<br>
   📊 Passionate about <b>Data Analytics, Data Science & Intelligent Systems</b>
 </p>
-
 
 ## About Me :
 <!-- Optional alternative (disabled) -->
