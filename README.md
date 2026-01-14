@@ -10,7 +10,7 @@
   📊 Passionate about <b>Data Analytics, Data Science & Intelligent Systems</b>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=akash3461&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
