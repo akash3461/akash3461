@@ -23,12 +23,12 @@
 </p>
 
 - 🎓 BE Computer Engineering Student  
-- ☕ Strong foundation in **Java & OOP concepts**  
+- ☕ Strong foundation in **Java & Object-Oriented Programming**  
 - 🐍 Working with **Python for Data Analytics & Data Science**  
-- 📊 Hands-on with **NumPy, Pandas, Matplotlib, Seaborn**  
-- 🤖 Learning **Machine Learning & AIML concepts**  
-- 🎮 Enjoy building **Games & Interactive Applications**  
-- 🎯 Goal: Become a **Skilled Software & AI Engineer**
+- 📊 Hands-on experience with **NumPy, Pandas, Matplotlib, Seaborn**  
+- 🤖 Learning **Machine Learning & AI/ML concepts**  
+- 🎮 Interested in building **Games & Interactive Applications**  
+- 🎯 Career goal: Become a **Skilled Software & AI Engineer**
 
 ---
 
@@ -39,21 +39,15 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
-### 🌐 Web Development
+### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
 
 ### 🤖 Data Science & AI/ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
@@ -63,32 +57,28 @@
 
 ---
 
-
-
-
-## 📊 GitHub Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash3461&theme=tokyonight" width="100%"/>
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash3461&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akash3461&theme=tokyonight&utcOffset=5.5" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash3461&theme=tokyonight" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akash3461&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="300"/>
+  <img src="https://streak-stats.demolab.com?user=akash3461&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/akashc42)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashc42)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/akash3461)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:akashchavan4278@gmail.com)
 
 ---
 
-⭐ <b>If you like my work, consider giving a star to my repositories!</b>
+⭐ <b>If you find my work interesting, feel free to explore my repositories and give a star!</b>
