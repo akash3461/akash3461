@@ -64,32 +64,7 @@
 ---
 
 
-## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash3461&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/akash3461/akash3461/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/akashc42)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/akash3461)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:akashchavan4278@gmail.com)
-
----
 
 ### <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28" height="28" alt="Stats Gif"> My GitHub Stats
 
@@ -109,5 +84,16 @@
   <img src="https://streak-stats.demolab.com?user=akash3461&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/akash3461/akash3461/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/akashc42)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/akash3461)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:akashchavan4278@gmail.com)
+
+---
 
 ⭐ <b>If you like my work, consider giving a star to my repositories!</b>
