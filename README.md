@@ -82,15 +82,24 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 
 ## 📊 GitHub Activity & Stats
 
+### <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="28" height="28" alt="Stats Animation"> My GitHub Stats
 
+<!-- Full profile summary (animated refresh, very stable) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash3461&theme=tokyonight" width="100%" alt="Profile Summary"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true)
+<!-- Top languages + main stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=akash3461)
+<!-- GitHub streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akash3461&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-![3D Graph](https://github-profile-3d-contribution.vercel.app/api?username=akash3461)
-
----
 
 ## 🌐 Connect With Me
 
