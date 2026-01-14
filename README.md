@@ -13,7 +13,7 @@
 
 ## About Me :
 <!-- Optional alternative (disabled) -->
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
+<img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
 
 <img align="left" height="150"
 src="https://octodex.github.com/images/gracehoppertocat.png"
