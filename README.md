@@ -11,15 +11,15 @@
 </p>
 
 ## About Me :
-<!-- Optional alternative animation (disabled) -->
+<!-- Optional alternative (disabled) -->
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 
 <img align="left" height="150" 
-src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" 
-alt="octocat" style="margin-right: 2rem;" />
+src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" 
+alt="developer-avatar" style="margin-right: 2rem;" />
 
 <img align="right" alt="coding" width="300" 
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 • 🎓 BE Computer Engineering Student<br/>
 • ☕ Java Developer with strong OOP fundamentals<br/>
@@ -31,6 +31,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 • 💼 <a href="https://github.com/akash3461" target="_blank"><b>Visit My GitHub Profile</b></a><br/>
 
 <br clear="both"/>
+
 
 
 ## 🛠️ Tech Stack
