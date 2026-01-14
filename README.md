@@ -63,19 +63,11 @@
 
 ---
 
-## 🎮 Games & Mini Projects
-- Logic-building games using Python  
-- Console & beginner-friendly projects  
-
-🔗 https://github.com/akash3461/Github-profile_tamplates
-
-
----
 
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -86,7 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 🐍 Contribution Snake
 ![Snake animation](https://github.com/akash3461/akash3461/blob/output/github-contribution-grid-snake.svg)
