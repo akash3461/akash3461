@@ -82,12 +82,13 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 
 ## 📊 GitHub Activity & Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akash3461&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true)
 
+![Streak](https://streak-stats.demolab.com?user=akash3461)
+
+![3D Graph](https://github-profile-3d-contribution.vercel.app/api?username=akash3461)
 
 ---
 
