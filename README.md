@@ -15,9 +15,6 @@
 <!-- Optional alternative (disabled) -->
 <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;">
 
-<img align="left" height="150"
-src="https://octodex.github.com/images/gracehoppertocat.png"
-alt="Grace Hopper Octocat" style="margin-right: 2rem;" />
 
 <img align="right" alt="coding" width="300"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
@@ -28,7 +25,6 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 • 🤖 Learning AI / Machine Learning concepts<br/>
 • 🎮 Interested in Games & Interactive Applications<br/>
 • 💬 Ask me about <b>Java, Python, Data Analytics, AI/ML</b><br/>
-• 📫 Reach me at <b>akashchavan4278@gmail.com</b><br/>
 • 💼 <a href="https://github.com/akash3461" target="_blank"><b>Visit My GitHub Profile</b></a><br/>
 
 <br clear="both"/>
