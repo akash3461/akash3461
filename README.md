@@ -9,7 +9,7 @@
   💻 Java Developer | 🐍 Python Data Analyst | 🤖 AI & ML Enthusiast<br>
   📊 Passionate about <b>Data Analytics, Data Science & Intelligent Systems</b>
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=akash3461)
 
 ## About Me :
 <!-- Optional alternative (disabled) -->
