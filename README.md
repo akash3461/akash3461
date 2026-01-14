@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash3461&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
-
-<p align="center">
   🚀 <b>BE Computer Engineering Student</b><br>
   💻 Java Developer | 🐍 Python Data Analyst | 🤖 AI & ML Enthusiast<br>
   📊 Passionate about <b>Data Analytics, Data Science & Intelligent Systems</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akash3461&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ## About Me :
@@ -94,10 +94,6 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 ## 🧠 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact)
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=akash3461)
 
 
 ## 🌐 Connect With Me
