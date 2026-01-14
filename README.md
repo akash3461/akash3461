@@ -91,8 +91,23 @@
 
 ---
 
+### <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="28" height="28" alt="Stats Gif"> My GitHub Stats
+
+<!-- Profile Summary -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash3461&color=blue&style=flat-square" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash3461&theme=github" width="100%" alt="Profile Summary"/>
 </p>
+
+<!-- Top Languages + GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akash3461&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
 ⭐ <b>If you like my work, consider giving a star to my repositories!</b>
