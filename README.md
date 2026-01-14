@@ -82,19 +82,9 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash3461)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akash3461)
-
-## 🧠 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact)
-
 
 ## 🌐 Connect With Me
 
