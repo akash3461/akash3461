@@ -11,6 +11,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="280"/>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -58,18 +61,13 @@
 ---
 
 ## 📊 GitHub Activity & Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash3461&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=akash3461)
 
 ---
 
