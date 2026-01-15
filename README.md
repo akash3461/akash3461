@@ -82,13 +82,9 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 
 
 ---
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
+https://github.com/akash3461
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akash3461&theme=default&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akash3461&row=1&column=4)
 
 
 ## 🌐 Connect With Me
