@@ -83,13 +83,26 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arpita-sah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arpita-sah&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=arpita-sah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+<table>
+<tr>
+<td>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=arpita-sah&theme=dark&hide_border=false" />
+</td>
+<td>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" alt="tech animation"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-sah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="right">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" alt="tech animation"/>
-</p>
 
 
 
