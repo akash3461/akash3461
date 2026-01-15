@@ -82,26 +82,6 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 
 
 ---
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true)
-
-<br/>
-
-<table>
-<tr>
-<td>
-  <img src="https://streak-stats.demolab.com?user=akash3461" alt="GitHub Streak"/>
-</td>
-<td>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="180" alt="tech animation"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact)
 
 
 
