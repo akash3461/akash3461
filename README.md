@@ -86,6 +86,9 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akash3461&theme=default&hide_border=true)
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=akash3461&style=flat)
 
 ## 🌐 Connect With Me
 
