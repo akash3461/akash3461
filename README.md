@@ -84,7 +84,8 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 ---
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akash3461)
+![GitHub Streak](https://streak-stats.demolab.com?user=akash3461&theme=default&hide_border=true)
+
 
 ## 🌐 Connect With Me
 
