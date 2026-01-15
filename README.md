@@ -82,8 +82,10 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 
 
 ---
-## 📊 GitHub Stats
-https://github.com/akash3461
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200" alt="developer animation"/>
+</p>
+
 
 
 
