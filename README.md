@@ -29,7 +29,7 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZH
 • 🤖 Learning AI / Machine Learning concepts<br/>
 • 🎮 Interested in Games & Interactive Applications<br/>
 • 💬 Ask me about <b>Java, Python, Data Analytics, AI/ML</b><br/>
-• 💼 <a href="[https://github.com/akash3461?tab=repositories" target="_blank"><b>Visit My GitHub Profile</b></a><br/>
+• 💼 <a href="https://github.com/akash3461?tab=repositories" target="_blank"><b>Visit My GitHub Profile</b></a><br/>
 
 <br clear="both"/>
 
