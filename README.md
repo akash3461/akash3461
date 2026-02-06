@@ -1,7 +1,7 @@
 # Hi 👋, I'm Akash Chavan  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Java+Developer;Python+Data+Analyst;Data+Science+%26+AI+ML+Enthusiast;Open+Source+Learner&center=true&width=750" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Java+Developer;Python+Data+Analyst;Data+Science+%26+AI+ML+Enthusiast;Open+Source+Learner&center=true&width=1750" />
 </p>
 
 <p align="center">
