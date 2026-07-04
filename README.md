@@ -20,7 +20,7 @@
 
 
 <img align="right" alt="coding" width="300"
-src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZHE1eDRqbXk3NHIwNXdtcmRkczg3bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
+[src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHRtMzh0Y3N3c3ZtZW5xYW91ZHE1eDRqbXk3NHIwNXdtcmRkczg3bSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif](https://giphy.com/gifs/mask-hacker-anonymous-wZM2P9l0PWR4dzhZxZ)">
 
 
 • 🎓 BE Computer Engineering Student<br/>
