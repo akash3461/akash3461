@@ -1,4 +1,3 @@
-```markdown
 # Hi 👋, I'm Akash Chavan
 
 <p align="center">
@@ -134,4 +133,3 @@ If you like my projects, consider giving them a ⭐ and following me for future 
 **Happy Coding! 🚀**
 
 </p>
-```
