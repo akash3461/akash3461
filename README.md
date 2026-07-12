@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>🚀 BE Computer Engineering Student</b><br>
-  💻 Java Developer • 🐍 Python Developer • 📊 Data Analytics • 🤖 AI & Machine Learning
+  💻   🐍 Python Developer • 📊 Data Analytics • 🤖 AI & Machine Learning
 </p>
 
 <p align="center">
