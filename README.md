@@ -1,124 +1,162 @@
-# Hi 👋, I'm Akash Chavan
+# Hi there 👋, I'm **Akash Chavan**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analytics+%7C+AI+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=800&center=true&vCenter=true&width=950&color=36BCF7&lines=AI+Engineer+%7C+Data+Analytics+Enthusiast;Python+Developer;Machine+Learning+%26+Generative+AI;Building+Real-World+AI+Applications;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 <h3 align="center">
-Turning Data into Insights • Building Intelligent AI Solutions
+Transforming Data into Insights • Building Intelligent AI Solutions
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash3461&style=for-the-badge&color=0e75b6" />
+<a href="https://github.com/akash3461">
+<img src="https://komarev.com/ghpvc/?username=akash3461&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<img src="https://img.shields.io/github/followers/akash3461?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/akash3461?style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 🎓 Computer Engineering Graduate
 
-💻 Passionate about Python, Data Analytics, Machine Learning, and Artificial Intelligence
+💻 Passionate about building scalable software using **Python**, **Machine Learning**, and **Generative AI**.
 
-📊 Interested in solving real-world problems using data-driven solutions
-
-🤖 Currently building AI applications using LLMs, RAG, LangChain, and Machine Learning
-
-📈 Learning every day in:
+📊 Interested in
 
 * Data Analytics
+* Artificial Intelligence
 * Machine Learning
-* Generative AI
+* LLM Applications
+* Intelligent Automation
+
+🌱 Currently Learning
+
+* Advanced SQL
+* Data Analytics
 * Power BI
-* SQL
+* Machine Learning
+* LangChain
+* RAG Systems
+* FastAPI
 * Cloud Technologies
 
-🎯 Career Goal:
-Become an AI Engineer specializing in Data Analytics and Intelligent Automation.
+🎯 Career Goal
+
+Become an **AI Engineer** capable of building production-ready AI systems and data-driven applications.
 
 💬 Ask me about
 
-* Python
-* SQL
-* Data Analytics
-* Machine Learning
-* Generative AI
-* Power BI
+Python • SQL • Data Analytics • Machine Learning • AI • Power BI
 
-📫 Reach me:
+📧 **Email**
 
-**Email:** [akashchavan4278@gmail.com](mailto:akashchavan4278@gmail.com)
+[akashchavan4278@gmail.com](mailto:akashchavan4278@gmail.com)
 
 🌐 Portfolio
 
-Coming Soon 🚀
+Coming Soon...
 
 <br clear="both"/>
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-## 💻 Programming
+## 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+Python • Java • JavaScript • SQL • HTML • CSS
 
 ---
 
 ## 📊 Data Analytics
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2C54?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+Pandas • NumPy • Power BI • Excel • Matplotlib • Seaborn
 
 ---
 
 ## 🤖 AI & Machine Learning
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
-![Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+Scikit-learn • OpenCV • TensorFlow • LangChain • RAG • FAISS • Google Gemini
 
 ---
 
-## ⚙️ Development Tools
+## 🗄 Databases
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+MySQL • MongoDB
 
 ---
 
-# ⭐ Featured Projects
+## ⚙️ Tools
 
-* 🤖 AI Medical RAG Assistant
-* 📊 Retail Sales Analytics Dashboard
-* 🧠 Machine Learning Projects
-* ✍️ Air Handwriting Recognition System
-* 💬 LLM-based Document Question Answering
-* 📈 Power BI Business Dashboard
+Git • GitHub • VS Code • Jupyter Notebook
 
 ---
 
-# 📈 GitHub Statistics
+# 🚀 Featured Projects
+
+### 🤖 AI Medical Assistant
+
+LLM-powered medical assistant using Retrieval-Augmented Generation (RAG), LangChain, and vector databases.
+
+---
+
+### 📊 Retail Sales Analytics Dashboard
+
+Interactive Power BI dashboard with business KPIs, customer insights, and sales forecasting.
+
+---
+
+### 🧠 Machine Learning Projects
+
+A collection of classification, regression, recommendation, and predictive analytics projects built with Python.
+
+---
+
+### ✍️ Air Handwriting Recognition
+
+Real-time finger tracking and handwriting recognition using MediaPipe and Computer Vision.
+
+---
+
+### 💬 Document Question Answering
+
+Upload PDFs and ask questions using AI-powered document retrieval.
+
+---
+
+# 📚 Current Learning Roadmap
+
+```text
+Python               ██████████████░░░  90%
+
+SQL                  █████████████░░░░  85%
+
+Data Analytics       █████████████░░░░  85%
+
+Machine Learning     ████████████░░░░░  80%
+
+Generative AI        ███████████░░░░░░  75%
+
+Power BI             ███████████░░░░░░  75%
+
+Cloud                ████████░░░░░░░░░  60%
+```
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -128,11 +166,27 @@ Coming Soon 🚀
 
 </p>
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash3461&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akash3461&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
+
 ---
 
 # 🌍 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/akashc42">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -150,21 +204,9 @@ Coming Soon 🚀
 
 ---
 
-# 📚 Current Focus
+# 💡 Quote I Live By
 
-```text
-Python           █████████████░   90%
-
-SQL              ████████████░░   85%
-
-Data Analytics   ████████████░░   85%
-
-Machine Learning ███████████░░░   80%
-
-Generative AI    ██████████░░░░   75%
-
-Power BI         ██████████░░░░   75%
-```
+> **"Consistency beats intensity. Learn every day, build every week, improve every month."**
 
 ---
 
@@ -172,9 +214,9 @@ Power BI         ██████████░░░░   75%
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Learning continuously, building consistently, and solving real-world problems with AI and Data."*
+**Learning • Building • Sharing • Growing**
 
-If you find my projects useful, consider giving them a ⭐.
+If you enjoy my work, consider ⭐ starring a repository or following my journey.
 
 🚀 Happy Coding!
 
