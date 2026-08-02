@@ -96,6 +96,20 @@ A collection of end-to-end ML projects including prediction, classification, rec
 
 ---
 
+## 🎌 Anime Corner
+
+<p align="center">
+  <img src="https://readme-anime-stats.vercel.app/api?username=your_anilist_username&theme=dark" alt="AniList Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tycrek/anime-card/master/img/rem-hi.gif" width="250"/>
+</p>
+
+> *"A person becomes strong when they've found something they'd rather die protecting than die living."* — Naruto Uzumaki
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashc42)
