@@ -96,6 +96,21 @@ A collection of end-to-end ML projects including prediction, classification, rec
 
 ---
 
+## 🎮 Gaming Zone
+
+I unwind with a good game after debugging sessions — it's basically my second IDE.
+
+**Currently Playing / All-Time Favorites**
+
+![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white)
+![GTA V](https://img.shields.io/badge/GTA_V-6EAD3E?style=for-the-badge&logo=rockstargames&logoColor=white)
+![FIFA](https://img.shields.io/badge/EA_FC-000000?style=for-the-badge&logo=easports&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+
+> 💭 *A good game is just a well-optimized problem-solving loop with better graphics than my terminal.*
+
+---
+
 ## 🎌 Anime Corner
 
 <p align="center">
