@@ -1,111 +1,191 @@
-<h1 align="center">Hi, I'm Akash Chavan 👋</h1>
-<h3 align="center">AI Engineer • Data Analytics Enthusiast • Python Developer</h3>
+```markdown
+<!-- ========================= HEADER ========================= -->
+
+<h1 align="center">Hi 👋, I'm Akash Chavan</h1>
+
+<h3 align="center">
+AI Engineer • Python Developer • Data Analytics Enthusiast
+</h3>
 
 <p align="center">
-I'm a Computer Engineering graduate passionate about building AI-powered applications, solving real-world problems with data, and developing scalable software using Python.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00BFFF&lines=AI+Engineer;Python+Developer;Data+Analytics+Enthusiast;Machine+Learning+Explorer;Building+Intelligent+Applications;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akash3461&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/akash3461?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/akash3461?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 Computer Engineering Graduate
-- 🐍 Python Developer with a strong interest in AI & Machine Learning
-- 📊 Passionate about Data Analytics, SQL, and Business Intelligence
-- 🤖 Building AI applications using LLMs, RAG, LangChain, and FastAPI
-- 🌱 Currently exploring Data Engineering, Cloud, and MLOps
-- 💼 Open to **AI Engineer**, **Data Analyst**, and **Python Developer** opportunities
+🎓 Computer Engineering Graduate
 
----
+🐍 Python Developer passionate about building intelligent applications.
 
-## 🛠️ Tech Stack
+🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI.
 
-**Languages**
+📊 Passionate about Data Analytics, SQL, Power BI, and Business Intelligence.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+⚡ Building AI-powered applications using LLMs, LangChain, RAG, FastAPI, and Vector Databases.
 
-**Data Analytics**
+☁️ Currently learning Data Engineering, Cloud Computing, and MLOps.
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+💼 Open to opportunities as:
 
-**AI & Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- AI Engineer
+- Python Developer
+- Data Analyst
+- Machine Learning Engineer
 
 ---
 
-## 🚀 Featured Projects
-
-### 🩺 AI Medical Assistant
-An intelligent medical assistant using RAG, LangChain, vector search, and LLMs for document-based question answering.
-
-### ✍️ Air Handwriting Recognition
-A computer vision project that tracks finger movements and recognizes handwritten characters in real time.
-
-### 📈 Retail Sales Analytics Dashboard
-Interactive Power BI dashboard for analyzing sales performance, customer trends, and business KPIs.
-
-### 🤖 Machine Learning Projects
-A collection of end-to-end ML projects including prediction, classification, recommendation systems, and data preprocessing.
-
----
-
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash3461&theme=github-dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,mongodb,git,github,vscode,fastapi,flask,tensorflow,opencv"/>
+
 </p>
 
 ---
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashc42)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash3461)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashchavan4278@gmail.com)
-
----
+## 📊 Data Analytics
 
 <p align="center">
-<i>"Build consistently. Learn continuously. Solve meaningful problems."</i>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
 </p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🩺 AI Medical Assistant | Intelligent medical chatbot using Retrieval-Augmented Generation | Python, LangChain, FAISS, FastAPI, Gemini |
+| ✍️ Air Handwriting Recognition | Real-time handwriting recognition using Computer Vision | Python, OpenCV |
+| 📈 Retail Sales Analytics Dashboard | Interactive dashboard for business KPIs and customer insights | Power BI, SQL, Excel |
+| 🤖 Machine Learning Projects | Prediction, Classification, Recommendation Systems, Data Preprocessing | Python, Scikit-Learn |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akash3461&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash3461&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=akash3461&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akash3461&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash3461&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akashc42">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akash3461">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:akashchavan4278@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Build consistently. Learn continuously. Solve meaningful problems."**
+
+</p>
+
+---
+
+<h2 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h2>
+
+<p align="center">
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
+
+</p>
+```
