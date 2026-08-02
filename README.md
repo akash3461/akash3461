@@ -1,4 +1,3 @@
-```markdown
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">Hi 👋, I'm Akash Chavan</h1>
@@ -188,4 +187,3 @@ If you like my work, consider giving a ⭐ to my repositories!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
 
 </p>
-```
